@@ -1,0 +1,6 @@
+@BetaLogistics_HostAddress = http://localhost:5054
+
+GET {{BetaLogistics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
